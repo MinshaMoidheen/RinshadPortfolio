@@ -40,7 +40,7 @@ const Home = () => {
             src={HeroImage}
             alt="my profile"
             
-            style={{marginTop:"0px",width:"350px",marginLeft:"50px",borderRadius:"10px"}}
+            style={{marginTop:"0px",width:"350px",marginLeft:"10px",borderRadius:"10px"}}
           />
         </div>
       </div>
